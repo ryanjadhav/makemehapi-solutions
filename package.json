@@ -1,6 +1,6 @@
 {
   "name": "makememapi-solutions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {
     "handlebars": "^2.0.0-alpha.4",
     "makemehapi": "^0.2.3",
